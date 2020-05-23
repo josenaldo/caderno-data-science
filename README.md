@@ -12,4 +12,5 @@
   * [Dictionaries in Python](https://realpython.com/python-dicts/)
 * Tratamento de erros e exceções
   * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
+  * [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
 * [NumPy](https://realpython.com/tutorials/numpy/)
