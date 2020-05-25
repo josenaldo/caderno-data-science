@@ -50,7 +50,57 @@
 
 ## Livros e Apostilas
 
+### Livros usados como referência para esse guia
+
 * [Pense em Python - 2ª edição](https://penseallen.github.io/PensePython2e/)
 * [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
 * [Como Pensar Como um Cientista da Computação](https://python.ime.usp.br/pensepy/static/pensepy/index.html)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos)
+
+### Livros open source e creative commons
+
+#### Data Science
+
+* [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
+* [Social Media Mining](http://dmml.asu.edu/smm/book/)
+
+#### Python
+
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Learn to Code by Programming Robots in Minecraft!](https://turtleappstore.com/book/)
+* [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+* [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
+* [Scratch Programming Playground](https://inventwithscratch.com/book/)
+* [Python for Data Analysis, 2nd Edition](http://shop.oreilly.com/product/0636920023784.do)
+  * [Material do Livro](https://github.com/wesm/pydata-book)
+* [A Byte of Python](https://github.com/swaroopch/byte-of-python)
+* [Learn Python, Break Python](https://learnpythonbreakpython.com/)
+
+#### R
+
+* [R Programming for Data Science](https://leanpub.com/rprogramming)
+* [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
+* [Advanced R](http://adv-r.had.co.nz/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+
+#### Machine Learning
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+* [Deep Learning](http://www.deeplearningbook.org/)
+* [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
+* [Natural Language Processing with Python](https://www.nltk.org/book/)
+
+#### Estatística
+
+* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)
+* [Think Bayes](https://greenteapress.com/wp/think-bayes/)
+  * [Repositório no Github](https://github.com/AllenDowney/ThinkBayes2)
+* [Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook)
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Data Mining And Analysis - Fundamental Concepts and Algorithms](http://www.dataminingbook.info/pmwiki.php/Main/BookDownload)
+* [Think Stats, 2nd Edition](https://greenteapress.com/wp/think-stats-2e/)
+  * [Repositório no Github](https://github.com/AllenDowney/ThinkStats2)
+* [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
