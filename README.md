@@ -1,9 +1,15 @@
-# Maratona Data Science
+# Guia Data Science do Vudu Reverso
+De quem não sabe quase nada pra quem sabe menos ainda :D
 
-## Artigos extras
+## Início: Aprendendo Python
 
 ### Básico
 
+* Instalação do Python
+* Introdução
+* Escrevendo seu primeiro programa
+  * Leitura de dados
+  * Saída de dados
 * Tipos de dados e variáveis
   * [Variáveis e tipos embutidos](https://www.caelum.com.br/apostila-python-orientacao-objetos/declarando-e-usando-variaveis/)
   * [Capítulo 2: Variáveis, expressões e instruções](https://penseallen.github.io/PensePython2e/02-vars-expr-instr.html)
@@ -30,23 +36,35 @@
   * [NumPy](https://realpython.com/tutorials/numpy/)
   * [Capítulo 7: Iteração](https://penseallen.github.io/PensePython2e/07-iteracao.html)
   * [Listas](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula09.html#listas)
-  * [Listas - Exercícios](https://python.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html)
+  * [Listas](https://python.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html)
+  * [Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html)
+  * [Funções com Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula12.html)
 * Tuplas
   * [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
 * Dicionários
   * [Dictionaries in Python](https://realpython.com/python-dicts/)
+  * [Dicionários](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula22.html)
 * Tratamento de erros e exceções
   * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
   * [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
 
 ### Avançado
 
-* Funções Orientadas a Expressões
+* Programação Funcional com Python
   * [Python Funcional](https://github.com/dunossauro/python-funcional)
   * [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
-* Pacotes
+* Pacotes e Módulos
   * [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
   * [6. Modules](https://docs.python.org/3/tutorial/modules.html)
+  * [Modularização, testes e reuso](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula20.html)
+* Programação Orientada a Objetos
+  * [Programação Orientada a Objetos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula17.html#programacao-orientada-a-objetos)
+    * [Exercícios com Objetos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula18.html)
+    * [Exercícios](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula19.html)
+  * [Tipos Abstratos de Dados](Tipos abstratos de dados)
+* Arquivos
+  * [Strings e arquivos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula13.html)
+* Testes
 
 ## Livros e Apostilas
 
