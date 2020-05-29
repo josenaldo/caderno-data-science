@@ -1,6 +1,28 @@
 # Guia Data Science do Vudu Reverso
 De quem não sabe quase nada pra quem sabe menos ainda :D
 
+## Aquecendo os motores
+
+Coisas legais pra assistir antes de começar, ou entre uma sessão e outra de
+estudo.
+
+### Documentários
+
+#### [The Age of A.I.](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+
+Série do Youtube sobre Inteligência Artificial.
+
+Episódios:
+
+* [O Que É Longe Demais? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=2&t=0s)
+* [Cura através da I.A. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=2)
+* [Usando A I A Para Fazer Um Humano Melhor | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=3)
+* [Amor, Arte e História: Decifrados | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=4)
+* [Os 'Arquitetos Espaciais' de Marte | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=5)
+* [Um Robô Tomará meu Emprego? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=6)
+* [Salvando o Mundo com um Algoritmo de Cada Vez | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=7)
+* [Como a I.A. Está Procurando Alienígenas | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=8)
+
 ## Início: Aprendendo Python
 
 ### Básico
@@ -44,6 +66,8 @@ De quem não sabe quase nada pra quem sabe menos ainda :D
 * Dicionários
   * [Dictionaries in Python](https://realpython.com/python-dicts/)
   * [Dicionários](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula22.html)
+  * [Dictionaries in Python](https://realpython.com/python-dicts/)
+  * [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 * Tratamento de erros e exceções
   * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
   * [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
@@ -64,6 +88,8 @@ De quem não sabe quase nada pra quem sabe menos ainda :D
   * [Tipos Abstratos de Dados](Tipos abstratos de dados)
 * Arquivos
   * [Strings e arquivos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula13.html)
+  * [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
+  * [Read and Write Files in Python](https://realpython.com/read-write-files-python/)
 * Testes
 
 ## Livros e Apostilas
@@ -122,3 +148,4 @@ De quem não sabe quase nada pra quem sabe menos ainda :D
   * [Repositório no Github](https://github.com/AllenDowney/ThinkStats2)
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
