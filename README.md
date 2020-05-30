@@ -1,5 +1,8 @@
 # Guia Data Science do Vudu Reverso
+
 De quem não sabe quase nada pra quem sabe menos ainda :D
+
+Esse guia está sendo montado à medida que estou aprendendo Python.
 
 ## Aquecendo os motores
 
@@ -53,6 +56,7 @@ Episódios:
 * Strings
   * [Python f-string tutorial](http://zetcode.com/python/fstring/)
   * [Capítulo 8: Strings](https://penseallen.github.io/PensePython2e/08-strings.html)
+  * [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 * Laços, Listas e Arrays
   * [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
   * [NumPy](https://realpython.com/tutorials/numpy/)
