@@ -123,6 +123,7 @@ Episódios:
   * [Material do Livro](https://github.com/wesm/pydata-book)
 * [A Byte of Python](https://github.com/swaroopch/byte-of-python)
 * [Learn Python, Break Python](https://learnpythonbreakpython.com/)
+* [Python Data Science Handbook](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 #### R
 
