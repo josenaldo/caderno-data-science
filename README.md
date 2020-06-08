@@ -100,6 +100,7 @@ Episódios:
 
 * Programação Funcional com Python
   * [Python Funcional](https://github.com/dunossauro/python-funcional)
+  * [How to Use Python Lambda Functions](https://realpython.com/python-lambda/#python-lambda-and-regular-functions)
   * [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 * Pacotes e Módulos
   * [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
