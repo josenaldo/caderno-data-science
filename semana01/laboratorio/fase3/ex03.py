@@ -4,6 +4,7 @@
 #   Salário: maior que zero;
 #   Sexo: 'f' ou 'm';
 #   Estado Civil: 's', 'c', 'v', 'd';
+# TODO: Refatorar código junto com a @cglima
 
 SEXOS = {
     'f': 'FEMININO',
