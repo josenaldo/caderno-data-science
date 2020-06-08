@@ -1,8 +1,27 @@
-# Guia Data Science do Vudu Reverso
+# Guia Desgraçado do Vudu Reverso para Data Science
+
+Fala ruma de [POGramador](https://livropog.com.br)!
+
+Esse guia imundiçado é MEU meu pra quem quer aprender Python e Data
+Science.
+
+O que eu sei sobre o assunto? PORRA NENHUMA.
+
+Tô estudando essa caralha agora mesmo. E aprendendo. E à medida que
+estou aprendendo, vou colocando no meu mapa o que eu já vi e onde acho
+que tenho que ir.
+
+Óbvio que isso aqui estará cheio de furos, né?
+
+Mas, se eu já tivesse plena noção da estrada, não precisaria de um mapa,
+certo?
+
+Se esse guia for útil pra você, fico feliz com isso. Se não for, aí é
+problema seu. Eu já tenho meus problemas pra lidar.
 
 De quem não sabe quase nada pra quem sabe menos ainda :D
 
-Esse guia está sendo montado à medida que estou aprendendo Python.
+Beijos e boas pogs
 
 ## Aquecendo os motores
 
@@ -75,6 +94,7 @@ Episódios:
 * Tratamento de erros e exceções
   * [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
   * [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
+  * [Python Tutorial - 8. Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
 
 ### Avançado
 
@@ -104,6 +124,7 @@ Episódios:
 * [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
 * [Como Pensar Como um Cientista da Computação](https://python.ime.usp.br/pensepy/static/pensepy/index.html)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos)
+* [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 ### Livros open source e creative commons
 
