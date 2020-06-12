@@ -10,19 +10,20 @@
 # Após concluir isto, altere o programa permitindo que o usuário digite
 # o salário inicial do funcionário.
 
+from functools import reduce
+from collections import namedtuple
+
 ano_inicio = 1995
-ano_atual = 2020
-anos = ano_inicio - ano_atual
-anos = list(range(anos))
-print(anos)
-
-
+# ano_atual = 1999
+ano_atual = int(input("Informe o ano atual: "))
+tempo =  ano_atual - ano_inicio
+print(f"tempo: {tempo}")
 
 salario_inicial = 1000
+aumento_base = 0.015
+fator_de_aumento = 2
 
-aumento_inicial = 1.5
-fator = 2
+calcula_aumento  = lambda ano: salario_inicial if ano == 0 else calcula_aumento(ano -1) + (calcula_aumento(ano -1) * (aumento_base * (2 ** (ano-1))))
 
+print(f"O salário, no ano de {ano_atual} foi de R$ {calcula_aumento(tempo):.2f}")
 
-
-salario_total  = salario_anterior + (salario_anterior * (percentual_de_aumento * 2 ** ano))

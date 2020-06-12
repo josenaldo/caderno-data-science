@@ -60,11 +60,11 @@ Episódios:
   - [ ] Leitura de dados
   - [ ] Saída de dados
 - [ ] Tipos de dados e variáveis
-  - [ ] [PT] [Variáveis e tipos embutidos](https://www.caelum.com.br/apostila-python-orientacao-objetos/declarando-e-usando-variaveis/)
+  - [x] [PT] [Variáveis e tipos embutidos](https://www.caelum.com.br/apostila-python-orientacao-objetos/declarando-e-usando-variaveis/)
   - [ ] [PT] [Capítulo 2: Variáveis, expressões e instruções](https://penseallen.github.io/PensePython2e/02-vars-expr-instr.html)
   - [ ] [PT] [Variáveis, expressões e comandos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula02.html)
 - [ ] Operadores
-  - [ ] [PT] [Operadores Aritméticos](https://www.caelum.com.br/apostila-python-orientacao-objetos/declarando-e-usando-variaveis/#operadores-aritmticos)
+  - [x] [PT] [Operadores Aritméticos](https://www.caelum.com.br/apostila-python-orientacao-objetos/declarando-e-usando-variaveis/#operadores-aritmticos)
   - [ ] [PT] [Valores e operadores booleanos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula05.html)
   - [ ] [PT] [Execuções condicionais e alternativas](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula03.html)
 - [ ] Condicionais e identação
@@ -80,7 +80,7 @@ Episódios:
 
 - [ ] Strings
   - [ ] [PT] [Capítulo 8: Strings](https://penseallen.github.io/PensePython2e/08-strings.html)
-  - [ ] [EN] [Python f-string tutorial](http://zetcode.com/python/fstring/)
+  - [x] [EN] [Python f-string tutorial](http://zetcode.com/python/fstring/)
   - [ ] [EN] [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 - [ ] Laços, Listas e Arrays
   - [ ] [PT] [Capítulo 7: Iteração](https://penseallen.github.io/PensePython2e/07-iteracao.html)
@@ -97,7 +97,6 @@ Episódios:
 - [ ] Dicionários
   - [ ] [PT] [Dicionários](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula22.html)
   - [ ] [EN] [Dictionaries in Python](https://realpython.com/python-dicts/)
-  - [ ] [EN] [Dictionaries in Python](https://realpython.com/python-dicts/)
   - [ ] [EN] [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
 - [ ] Tratamento de erros e exceções
   - [ ] [EN] [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
@@ -108,6 +107,18 @@ Episódios:
 
 - [ ] Programação Funcional com Python
   - [ ] [PT] [Python Funcional](https://github.com/dunossauro/python-funcional)
+    - [x] [PT] [0 Saindo da zona de conforto](https://dunossauro.github.io/python-funcional/roteiros/00_introducao.html)
+    - [x] [PT] [1 Funções](https://dunossauro.github.io/python-funcional/roteiros/01_funcoes.html)
+    - [x] [PT] [2 Iteráveis e iteradores](https://dunossauro.github.io/python-funcional/roteiros/02_iteraveis_iteradores.html)
+    - [x] [PT] [3 Consumindo iteráveis](https://dunossauro.github.io/python-funcional/roteiros/03_consumindo_iteraveis.html)
+    - [x] [PT] [4 Funções de redução/mapeamento](https://dunossauro.github.io/python-funcional/roteiros/04_funcoes_reducao_mapeamento.html)
+    - [x] [PT] [5 Funções de ordem superior](https://dunossauro.github.io/python-funcional/roteiros/05_hofs.html)
+    - [x] [PT] [6 Funções de ordem superior Parte 2](https://dunossauro.github.io/python-funcional/roteiros/06_funcoes_geradoras_e_hofs_p2.html)
+    - [ ] [PT] [7 Nossa primeira biblioteca de funções](https://dunossauro.github.io/python-funcional/roteiros/07_construindo_nossa_lib.html)
+    - [ ] [PT] [8 Closures e contexto de variáveis](https://dunossauro.github.io/python-funcional/roteiros/08_closures_1_escopo.html)
+    - [ ] [PT] [9 Usos variados de closures](https://dunossauro.github.io/python-funcional/roteiros/09_closures_2.html)
+    - [ ] [PT] [10 Decoradores](https://dunossauro.github.io/python-funcional/roteiros/10_decoradores.html)
+  - [x] [PT] [Python Brasil 13 - Programação Funcional em Python 3 de Forma Simples - Vinta Software](https://www.youtube.com/watch?v=jdYN2gtF2oA)
   - [ ] [EN] [How to Use Python Lambda Functions](https://realpython.com/python-lambda/#python-lambda-and-regular-functions)
   - [ ] [EN] [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
 - [ ] Pacotes e Módulos
@@ -131,6 +142,10 @@ Episódios:
 - [ ] [EN] [Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019](https://www.youtube.com/watch?v=mUu_4k6a5-I)
   - [ ] [Repositório](https://github.com/ramalho/pyob)
 - [ ] [EN] [Python Data Structures](https://devopedia.org/python-data-structures)
+- [ ] Módulo functools
+- [ ] Módulo itertools
+- [ ] Módulo operator
+- [ ] [Módulo collections](https://docs.python.org/3/library/collections.html)
 
 ## Livros e Apostilas
 
