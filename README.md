@@ -74,6 +74,7 @@ Episódios:
 * Funções
   * [PT] [Capítulo 3: Funções](https://penseallen.github.io/PensePython2e/03-funcoes.html)
   * [PT] [Capítulo 6: Funções com resultado](https://penseallen.github.io/PensePython2e/06-funcoes-result.html)
+  * [EN] [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
 ### Intermediário
 
@@ -87,7 +88,7 @@ Episódios:
   * [PT] [Listas](https://python.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html)
   * [PT] [Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html)
   * [PT] [Funções com Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula12.html)
-  * [PT] [Vídeo - Iteração em Python: do básico ao genial - Luciano Ramalho - Rupy 2012](https://www.youtube.com/watch?v=ULj7ejvuzI8)
+  * [PT] [x] [Vídeo - Iteração em Python: do básico ao genial - Luciano Ramalho - Rupy 2012](https://www.youtube.com/watch?v=ULj7ejvuzI8)
   * [EN] [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
   * [EN] [NumPy](https://realpython.com/tutorials/numpy/)
   * [EN] [PEP 234 - Iterators](https://www.python.org/dev/peps/pep-0234/)
@@ -126,8 +127,10 @@ Episódios:
 
 ### Mestre
 
-* Python Data Model
-  * [EN] [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
+* [EN] [Python Data Model](https://docs.python.org/3/reference/datamodel.html)
+* [EN] [Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019](https://www.youtube.com/watch?v=mUu_4k6a5-I)
+  * [Repositório](https://github.com/ramalho/pyob)
+* [EN] [Python Data Structures](https://devopedia.org/python-data-structures)
 
 ## Livros e Apostilas
 
@@ -137,6 +140,8 @@ Episódios:
 * [PT] [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
 * [PT] [Como Pensar Como um Cientista da Computação](https://python.ime.usp.br/pensepy/static/pensepy/index.html)
 * [PT] [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos)
+* [PT] [Aprenda a Programar](http://turing.com.br/material/appy/index.html)
+  * [Repositório](https://github.com/ramalho/aprendaprog)
 * [EN] [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 ### Livros open source e creative commons
@@ -187,3 +192,12 @@ Episódios:
   * [EN] [Repositório no Github](https://github.com/AllenDowney/ThinkStats2)
 * [EN] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [EN] [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
+## Como praticar
+
+* [EN] [App Ideas Collection](https://github.com/ramalho/app-ideas)
+  * Repositório de ideias para desenvolver suas habilidades de código
+* [EN] [Coding Game](https://www.codingame.com/training)
+  * Site de minigames em que o jogador precisa codar a solução
+* [EN] [Pytudes](https://github.com/ramalho/pytudes)
+  * Repositórios com programas python voltados ao aperfeiçoamento do desenvolvedor
