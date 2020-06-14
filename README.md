@@ -78,34 +78,33 @@ Episódios:
 
 ### Intermediário
 
-- [ ] Strings
+- Strings
   - [ ] [PT] [Capítulo 8: Strings](https://penseallen.github.io/PensePython2e/08-strings.html)
   - [x] [EN] [Python f-string tutorial](http://zetcode.com/python/fstring/)
   - [ ] [EN] [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
-- [ ] Laços, Listas e Arrays
+- Laços, Listas e Arrays
   - [ ] [PT] [Capítulo 7: Iteração](https://penseallen.github.io/PensePython2e/07-iteracao.html)
   - [ ] [PT] [Listas](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula09.html#listas)
   - [ ] [PT] [Listas](https://python.ime.usp.br/pensepy/static/pensepy/09-Listas/listas.html)
   - [ ] [PT] [Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula11.html)
   - [ ] [PT] [Funções com Matrizes](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula12.html)
-  - [x] [PT] [Vídeo - Iteração em Python: do básico ao genial - Luciano Ramalho - Rupy 2012](https://www.youtube.com/watch?v=ULj7ejvuzI8)
   - [ ] [EN] [How to Use sorted() and sort() in Python](https://realpython.com/python-sort/)
   - [ ] [EN] [NumPy](https://realpython.com/tutorials/numpy/)
   - [ ] [EN] [PEP 234 - Iterators](https://www.python.org/dev/peps/pep-0234/)
-- [ ] Tuplas
+- Tuplas
   - [ ] [EN] [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
-- [ ] Dicionários
+- Dicionários
   - [ ] [PT] [Dicionários](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula22.html)
   - [ ] [EN] [Dictionaries in Python](https://realpython.com/python-dicts/)
   - [ ] [EN] [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
-- [ ] Tratamento de erros e exceções
+- Tratamento de erros e exceções
   - [ ] [EN] [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
   - [ ] [EN] [The Most Diabolical Python Antipattern](https://realpython.com/the-most-diabolical-python-antipattern/)
   - [ ] [EN] [Python Tutorial - 8. Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
 
 ### Avançado
 
-- [ ] Programação Funcional com Python
+- Programação Funcional com Python
   - [ ] [PT] [Python Funcional](https://github.com/dunossauro/python-funcional)
     - [x] [PT] [0 Saindo da zona de conforto](https://dunossauro.github.io/python-funcional/roteiros/00_introducao.html)
     - [x] [PT] [1 Funções](https://dunossauro.github.io/python-funcional/roteiros/01_funcoes.html)
@@ -121,16 +120,18 @@ Episódios:
   - [x] [PT] [Python Brasil 13 - Programação Funcional em Python 3 de Forma Simples - Vinta Software](https://www.youtube.com/watch?v=jdYN2gtF2oA)
   - [ ] [EN] [How to Use Python Lambda Functions](https://realpython.com/python-lambda/#python-lambda-and-regular-functions)
   - [ ] [EN] [Itertools in Python 3, By Example](https://realpython.com/python-itertools/)
-- [ ] Pacotes e Módulos
+- Pacotes e Módulos
   - [ ] [PT] [Modularização, testes e reuso](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula20.html)
   - [ ] [EN] [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
   - [ ] [EN] [6. Modules](https://docs.python.org/3/tutorial/modules.html)
-- [ ] Programação Orientada a Objetos
+- Programação Orientada a Objetos
   - [ ] [PT] [Programação Orientada a Objetos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula17.html#programacao-orientada-a-objetos)
     - [ ] [PT] [Exercícios com Objetos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula18.html)
     - [ ] [PT] [Exercícios](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula19.html)
+  - [ ] [PT] [Programação Orientada a Objetos - Com Luciano Ramalho](https://www.youtube.com/watch?v=EblOW9nfkNA)
+  - [ ] [PT] [Orientação a Objetos em Python](https://www.youtube.com/watch?v=VUtukBFA2bk)
   - [ ] [Tipos Abstratos de Dados](Tipos abstratos de dados)
-- [ ] Arquivos
+- Arquivos
   - [ ] [PT] [Strings e arquivos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula13.html)
   - [ ] [EN] [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
   - [ ] [EN] [Read and Write Files in Python](https://realpython.com/read-write-files-python/)
@@ -138,10 +139,30 @@ Episódios:
 
 ### Mestre
 
-- [ ] [EN] [Python Data Model](https://docs.python.org/3/reference/datamodel.html)
-- [ ] [EN] [Luciano Ramalho - Pythonic Objects: idiomatic OOP in Python - PyCon 2019](https://www.youtube.com/watch?v=mUu_4k6a5-I)
-  - [ ] [Repositório](https://github.com/ramalho/pyob)
+- Palestras do Ramalho
+  - [x] [PT] [Vídeo - Iteração em Python: do básico ao genial](https://www.youtube.com/watch?v=ULj7ejvuzI8)
+  - [x] [PT] [Sem __magica__: usando bem os métodos especiais](https://www.youtube.com/watch?v=71fPrl9u9Ac)
+  - [ ] [PT] [De iteradores a geradores: evolução de um pattern em Python](https://speakerdeck.com/ramalho/de-iteradores-a-geradores-evolucao-de-um-pattern-em-python)
+  - [ ] [PT] [Python: encapsulamento com descritores](https://speakerdeck.com/ramalho/python-encapsulamento-com-descritores?)
+  - [ ] [PT] [Atributos, propriedades e descritores - encapsulamento e metaprogramação](https://www.youtube.com/watch?v=tF4Dlra3uNI)
+  - [ ] [PT] [Live de Python #100 - Tudo ao mesmo tempo agora - Com Luciano Ramalho](https://www.youtube.com/watch?v=wReCMR8rnRI)
+  - [ ] [PT] [Python Assíncrono: tudo ao mesmo tempo agora - Luciano Ramalho](https://www.youtube.com/watch?v=JijvNVKI0nY)
+  - [ ] [PT] [Além dos paradigmas: como dominar linguagens no século 21 - Luciano Ramalho](https://www.youtube.com/watch?v=Gn9ihCd6IIY)
+  - [ ] [PT] [Luciano Ramalho - A Beleza de Python](https://www.youtube.com/watch?v=2TLU3d3qgCw)
+  - [ ] [PT] [OO em Python sem sotaque](https://www.youtube.com/watch?v=BwAF7ke7Px0)
+  - [ ] [PT] [Ensinando OO com Python, Django e Pygame](https://www.youtube.com/watch?v=-kt7PxjVn28)
+  - [ ] [PT] [Design Patterns in Python](https://www.youtube.com/watch?v=zBkGbGmcl2Q)
+  - [ ] [PT] [Encapsulamento e metaprogramação em Python](https://www.youtube.com/watch?v=ZUjvlsc7VLc)
+  - [ ] [PT] [Descritores de atributos em Python](https://www.youtube.com/watch?v=Ylfv3_5KqKs)
+  - [ ] [PT] [O Poder dos Geradores](https://www.youtube.com/watch?v=4MFp_Z91aQ4)
+  - [ ] [PT] [Cadê o paradigma? Teoria a serviço de Python na prática](https://www.youtube.com/watch?v=rWKVFPYPXS4)
+  - [ ] [PT] [Funções como objetos: closures, decoradores e APIs](https://www.youtube.com/watch?v=YE9L8tl62vs)
+  - [ ] [EN] [Think Like a Pythonista](https://www.youtube.com/watch?v=M4gPxbo6G6k)
+  - [ ] [EN] [Pythonic Objects: idiomatic OOP in Python](https://www.youtube.com/watch?v=mUu_4k6a5-I)
+    - [ ] [Repositório](https://github.com/ramalho/pyob)
+  - [ ] [EN] [Pythonic Objects: implementing productive APIs with the Python Data Model](https://www.youtube.com/watch?v=k55d3ZUF3ZQ)
 - [ ] [EN] [Python Data Structures](https://devopedia.org/python-data-structures)
+- [ ] [EN] [Python Data Model](https://docs.python.org/3/reference/datamodel.html)
 - [ ] Módulo functools
 - [ ] Módulo itertools
 - [ ] Módulo operator
@@ -169,6 +190,7 @@ Episódios:
 #### Python
 
 - [ ] [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [ ] [EN] [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [ ] [EN] [Learn to Code by Programming Robots in Minecraft!](https://turtleappstore.com/book/)
 - [ ] [EN] [Cracking Codes with Python](https://inventwithpython.com/cracking/)
 - [ ] [EN] [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
