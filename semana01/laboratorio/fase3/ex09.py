@@ -13,9 +13,10 @@
 from functools import reduce
 from collections import namedtuple
 
+ano_atual = 1997
+# ano_atual = int(input("Informe o ano atual: "))
+
 ano_inicio = 1995
-# ano_atual = 1999
-ano_atual = int(input("Informe o ano atual: "))
 tempo =  ano_atual - ano_inicio
 print(f"tempo: {tempo}")
 
@@ -23,7 +24,7 @@ salario_inicial = 1000
 aumento_base = 0.015
 fator_de_aumento = 2
 
-calcula_aumento  = lambda ano: salario_inicial if ano == 0 else calcula_aumento(ano -1) + (calcula_aumento(ano -1) * (aumento_base * (2 ** (ano-1))))
+calcula_aumento  = lambda ano: (salario_inicial if ano == 0 else calcula_aumento(ano -1) + (calcula_aumento(ano -1) * (aumento_base * (2 ** (ano-1)))))
 
 print(f"O salário, no ano de {ano_atual} foi de R$ {calcula_aumento(tempo):.2f}")
 
