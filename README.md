@@ -113,7 +113,7 @@ Episódios:
     - [x] [PT] [4 Funções de redução/mapeamento](https://dunossauro.github.io/python-funcional/roteiros/04_funcoes_reducao_mapeamento.html)
     - [x] [PT] [5 Funções de ordem superior](https://dunossauro.github.io/python-funcional/roteiros/05_hofs.html)
     - [x] [PT] [6 Funções de ordem superior Parte 2](https://dunossauro.github.io/python-funcional/roteiros/06_funcoes_geradoras_e_hofs_p2.html)
-    - [ ] [PT] [7 Nossa primeira biblioteca de funções](https://dunossauro.github.io/python-funcional/roteiros/07_construindo_nossa_lib.html)
+    - [x] [PT] [7 Nossa primeira biblioteca de funções](https://dunossauro.github.io/python-funcional/roteiros/07_construindo_nossa_lib.html)
     - [ ] [PT] [8 Closures e contexto de variáveis](https://dunossauro.github.io/python-funcional/roteiros/08_closures_1_escopo.html)
     - [ ] [PT] [9 Usos variados de closures](https://dunossauro.github.io/python-funcional/roteiros/09_closures_2.html)
     - [ ] [PT] [10 Decoradores](https://dunossauro.github.io/python-funcional/roteiros/10_decoradores.html)
@@ -135,7 +135,11 @@ Episódios:
   - [ ] [PT] [Strings e arquivos](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula13.html)
   - [ ] [EN] [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
   - [ ] [EN] [Read and Write Files in Python](https://realpython.com/read-write-files-python/)
-- [ ] Testes
+- Testes
+- Datetime
+  - [ ] [PT] [Python datetime: Lidando com datas e horários](https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python)
+  - [ ] [EN] [Using Python datetime to Work With Dates and Times](https://realpython.com/python-datetime/)
+  - [ ] [EN] [Basic date and time types](https://docs.python.org/3/library/datetime.html)
 
 ### Mestre
 
