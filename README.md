@@ -146,6 +146,7 @@ Episódios:
 - Palestras do Ramalho
   - [x] [PT] [Vídeo - Iteração em Python: do básico ao genial](https://www.youtube.com/watch?v=ULj7ejvuzI8)
   - [x] [PT] [Sem __magica__: usando bem os métodos especiais](https://www.youtube.com/watch?v=71fPrl9u9Ac)
+  - [x] [PT] [OO em Python sem sotaque](https://www.youtube.com/watch?v=BwAF7ke7Px0)
   - [ ] [PT] [De iteradores a geradores: evolução de um pattern em Python](https://speakerdeck.com/ramalho/de-iteradores-a-geradores-evolucao-de-um-pattern-em-python)
   - [ ] [PT] [Python: encapsulamento com descritores](https://speakerdeck.com/ramalho/python-encapsulamento-com-descritores?)
   - [ ] [PT] [Atributos, propriedades e descritores - encapsulamento e metaprogramação](https://www.youtube.com/watch?v=tF4Dlra3uNI)
@@ -153,7 +154,6 @@ Episódios:
   - [ ] [PT] [Python Assíncrono: tudo ao mesmo tempo agora - Luciano Ramalho](https://www.youtube.com/watch?v=JijvNVKI0nY)
   - [ ] [PT] [Além dos paradigmas: como dominar linguagens no século 21 - Luciano Ramalho](https://www.youtube.com/watch?v=Gn9ihCd6IIY)
   - [ ] [PT] [Luciano Ramalho - A Beleza de Python](https://www.youtube.com/watch?v=2TLU3d3qgCw)
-  - [ ] [PT] [OO em Python sem sotaque](https://www.youtube.com/watch?v=BwAF7ke7Px0)
   - [ ] [PT] [Ensinando OO com Python, Django e Pygame](https://www.youtube.com/watch?v=-kt7PxjVn28)
   - [ ] [PT] [Design Patterns in Python](https://www.youtube.com/watch?v=zBkGbGmcl2Q)
   - [ ] [PT] [Encapsulamento e metaprogramação em Python](https://www.youtube.com/watch?v=ZUjvlsc7VLc)
@@ -242,3 +242,4 @@ Episódios:
   - [ ] Site de minigames em que o jogador precisa codar a solução
 - [ ] [EN] [Pytudes](https://github.com/ramalho/pytudes)
   - [ ] Repositórios com programas python voltados ao aperfeiçoamento do desenvolvedor
+- [ ] [PT] [Lista De Exercicios - Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
