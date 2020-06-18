@@ -34,4 +34,3 @@ Beijos e boas pogs
 - [Guia R](guia-r.md)
 - [Fontes](guia-fontes.md)
 - [Materiais Extras](guia-extras.md)
-  
