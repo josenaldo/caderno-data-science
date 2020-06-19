@@ -40,6 +40,7 @@ outras fontes de estudo que o estudante pode usar.
 
 ### R
 
+- [PT] [Ciência de Dados com R - Introdução](https://cdr.ibpad.com.br/)
 - [PT] [Alfabetização em Dados para Inovação](https://bookdown.org/almeida1003/dataliteracy_pt/)
 - [PT] [Introdução ao R para alunos de ciências exatas](https://bookdown.org/gabycosta1919/Apostila_R/)
 - [PT] [Noções de Inferência no R](https://bookdown.org/thalita_dobem/Apostila/)
