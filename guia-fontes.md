@@ -41,6 +41,7 @@ outras fontes de estudo que o estudante pode usar.
 ### R
 
 - [PT] [Ciência de Dados com R - Introdução](https://cdr.ibpad.com.br/)
+  - [dados.zip](https://cdr.ibpad.com.br/dados.zip)
 - [PT] [Alfabetização em Dados para Inovação](https://bookdown.org/almeida1003/dataliteracy_pt/)
 - [PT] [Introdução ao R para alunos de ciências exatas](https://bookdown.org/gabycosta1919/Apostila_R/)
 - [PT] [Noções de Inferência no R](https://bookdown.org/thalita_dobem/Apostila/)
@@ -101,3 +102,9 @@ outras fontes de estudo que o estudante pode usar.
 - [EN] [Scientific Research Methods: Tutorials](https://bookdown.org/pkaldunn/SRM-tutorials/)
 - [EN] [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)
 - [EN] [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+
+### Open Source Society University
+
+- [EN] [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
+- [EN] [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [En] [Path to a free self-taught education in Bioinformatics!](https://github.com/ossu/bioinformatics)
