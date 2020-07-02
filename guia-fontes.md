@@ -71,7 +71,9 @@ outras fontes de estudo que o estudante pode usar.
 - [EN] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [EN] [Advanced R Solutions](https://advanced-r-solutions.rbind.io/)
 -
+### Deep Learning
 
+- [PT] [Deep Learning - L00 Apresentação do curso de Deep Learning](https://www.youtube.com/watch?v=0VD_2t6EdS4&list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
 ### Machine Learning
 
 - [EN] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)

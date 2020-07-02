@@ -14,7 +14,7 @@ Para esse guia, foram usados os seguintes materiais:
 
 ## Introdução
 
-- [ ] REF1
+- REF1
   - [x] [PT] [1 INTRODUÇÃO](https://bookdown.org/wevsena/curso_r_tce/curso_r_tce.html#introducao)
   - [x] [PT] [2 O QUE É R?](https://bookdown.org/wevsena/curso_r_tce/curso_r_tce.html#o-que-e-r)
 - REF2
@@ -37,6 +37,11 @@ Ou instale usando o Anaconda
   - [ ] [PT] [3 INICIANDO O USO DO R](https://bookdown.org/wevsena/curso_r_tce/curso_r_tce.html#iniciando-o-uso-do-r)
 
 ## Básico
+
+### Conceitos Básicos
+
+- REF2
+  - [ ] [PT] [Conceitos Básicos](https://cdr.ibpad.com.br/conceitos-basicos.html)
 
 ## Intermediário
 
