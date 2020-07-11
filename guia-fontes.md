@@ -25,8 +25,15 @@ outras fontes de estudo que o estudante pode usar.
 - [EN] [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
 
 ### Python
-
+- [PT] [Ignorância Zero - Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+- [PT] [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+- [PT] [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+- [PT] [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+- [PT] [Curso de Python - Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr)
+- [PT] [Curso de Python - CFB Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
+- [PT] [O Melhor Curso de Python](https://www.youtube.com/playlist?list=PL4OAe-tL47sY8SGhtkGoP0eQd4le3badz)
 - [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [EN] [Google's Python Class](https://developers.google.com/edu/python)
 - [EN] [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [EN] [Learn to Code by Programming Robots in Minecraft!](https://turtleappstore.com/book/)
 - [EN] [Cracking Codes with Python](https://inventwithpython.com/cracking/)
@@ -110,3 +117,7 @@ outras fontes de estudo que o estudante pode usar.
 - [EN] [Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)
 - [EN] [Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [En] [Path to a free self-taught education in Bioinformatics!](https://github.com/ossu/bioinformatics)
+
+### VERIFICAR
+
+- [https://sites.google.com/site/python20172/](https://sites.google.com/site/python20172/)
