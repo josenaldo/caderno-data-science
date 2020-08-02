@@ -41,13 +41,18 @@ Ou instale usando o Anaconda
 ### Conceitos Básicos
 
 - REF2
-  - [ ] [PT] [Conceitos Básicos](https://cdr.ibpad.com.br/conceitos-basicos.html)
+  - [x] [PT] [Conceitos Básicos](https://cdr.ibpad.com.br/conceitos-basicos.html)
 
 ## Intermediário
 
 ## Avançado
 
 ## Mestre
+
+## Guia de estilo do R
+
+- [ ] [EN] [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
+- [ ] [EN] [Advanced R by Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)
 
 ## Como praticar
 

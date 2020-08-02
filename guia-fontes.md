@@ -32,6 +32,7 @@ outras fontes de estudo que o estudante pode usar.
 - [PT] [Curso de Python - Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr)
 - [PT] [Curso de Python - CFB Cursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR)
 - [PT] [O Melhor Curso de Python](https://www.youtube.com/playlist?list=PL4OAe-tL47sY8SGhtkGoP0eQd4le3badz)
+- [PT] [Curso de numpy completo](https://www.youtube.com/playlist?list=PLzQ9jbN7Q7oIKYy9UhL1_PHovlQm1lkyk)
 - [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [EN] [Google's Python Class](https://developers.google.com/edu/python)
 - [EN] [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
