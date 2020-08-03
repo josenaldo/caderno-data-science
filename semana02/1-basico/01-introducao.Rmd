@@ -1,0 +1,35 @@
+---
+title: "Introdução ao R"
+output: html_notebook
+---
+
+## Leituras
+
+- REF2 - [Introdução](https://cdr.ibpad.com.br/introducao.html)
+
+## Exercícios:
+
+1. Digite o comando R.Version(). O que acontece?
+  - Aparecem dados sobre a versão do R instalada
+
+```{r}
+
+R.Version()
+```
+
+2. Encontre o item de menu Help e descubra como identificar a versão do seu RStudio.
+    - Basta clicar no menu Help e escolher a opção 'About R Studio'.
+    
+3. Encontre o item de menu Cheatsheets. O que este menu oferece?
+    - Oferece várias cheatsheets referentes a pacotes comuns do R
+
+4. Entre no site [https://stackoverflow.com](https://stackoverflow.com) e digite [r] na caixa de busca. O que acontece?
+    - O site mostra o resultado da busca por tag, para a tag [r]
+    
+## Atalhos úteis: 
+
+- *Ctrl+Shift+Enter*: executar um chunk
+- *Ctrl+Alt+I*: inserir um novo chunk
+- *Ctrl+Shift+K*: preview do arquivo em HTML
+
+
