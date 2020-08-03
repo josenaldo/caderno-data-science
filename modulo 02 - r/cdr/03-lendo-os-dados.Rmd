@@ -1,0 +1,6 @@
+---
+title: "03 - Lendo dos dados"
+output: html_notebook
+---
+
+library(readr)
