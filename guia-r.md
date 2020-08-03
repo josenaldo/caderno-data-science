@@ -62,3 +62,5 @@ Ou instale usando o Anaconda
 - [The Comprehensive R Archive Network](https://cran.r-project.org/)
   - CRAN é uma rede de servidores web e FTP, ao redor do mundo, que armazenam as últimas versões do código e da documentação do R
 - [RStudio Community](https://community.rstudio.com/)
+- [Tidyverse](https://www.tidyverse.org/)
+  - Uma coleção dogmática de pacotes R voltados para ciência e dados
