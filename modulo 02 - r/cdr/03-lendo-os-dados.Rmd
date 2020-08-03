@@ -3,4 +3,82 @@ title: "03 - Lendo dos dados"
 output: html_notebook
 ---
 
+`library` carrega uma biblioteca
+
+```{r}
 library(readr)
+```
+
+`read_csv` lê um CSV e retorna o conteúdo desse CSV como um data.frame
+
+```{r}
+senado <- read_csv("dados/senado.csv")
+
+```
+
+`head` é usado para observar as primeiras linhas (6, por padrão) da coleção
+
+```{r}
+head(senado)
+```
+
+`tail` é usado para observar as últimas linhas (6, por padrão) da coleção
+
+```{r}
+tail(senado)
+```
+
+`class` verifica o tipo do objeto
+
+```{r}
+class(senado)
+```
+
+`str` verifica a estrutura do objeto
+
+```{r}
+str(senado)
+```
+
+`summary` verifica as estatísticas básicas do objeto (média, mediana, quantis, máximo, etc.)
+
+```{r}
+summary(senado)
+```
+
+`read_delim` carrega o arquivo informado no primeiro parâmetro e o processa usando o delimitador informado no segundo.
+
+```{r}
+#lendo arquivo com delimitador #
+read_delim('caminho/do/arquivo/arquivo_separado_por#.txt', delim = '#')
+```
+
+`read_fwf`carrega o arquivo de coluna fixa, informado no primeiro parâmetro, e o processa usando o fwf_widths, para indicar os tamanhos e nomes das colunas.
+
+```{r}
+#lendo arquivo de coluna fixa
+#coluna 1 de tamanho 5, coluna 2 de tamanho 2 e coluna 3 de tamanho 10
+read_fwf('caminho/do/arquivo/arquivo_posicional.txt', col_positions = fwf_widths(c(5, 2, 10), c("col1", "col2", "col3")))
+```
+
+## Exercícios
+
+1. Leia o arquivo TA_PRECOS_MEDICAMENTOS.csv, cujo separador é uma barra |.
+
+```{r}
+precos_medicamentos = read_delim('dados/ta_precos_medicamentos.csv', delim = '|')
+```
+
+
+2. Leia o arquivo de colunas fixas fwf-sample.txt, cuja primeira coluna (nomes) tem tamanho vinte, a segunda (estado) tem tamanho dez e a terceira (código) tem tamanho doze.
+
+```{r}
+read_fwf('dados/fwf-sample.txt', col_positions = fwf_widths(c(20, 10, 12), c('nomes', 'estado', 'código')))
+
+```
+
+3. Investigue os parâmetros das funções de leitura do R base: `read.csv()`, `read.delim()` e `read.fwf()`. Notou as diferenças das funções do readr?
+
+`read.csv()` e `read.delim()` são, aparentemente, sobrecargas da função `read.table()`. A diferença entre as duas está nos parâmetros default e na finalidade. A primeira serve, especificamente, para arquivso CSV e a segunda para arquivos delimitados por outros delimitadores. Então, o parâmetro `sep`, na prim eira, tem o valor padrão de ',' e, na segunda, o valor padrão de '\t'. Já a função `read.fwf()` possui uma assinatura diferente, tendo como destaque os parâmetros que indicam o tamanho das colunas e os nomes delas.
+
+
