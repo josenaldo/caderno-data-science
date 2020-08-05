@@ -64,3 +64,5 @@ Ou instale usando o Anaconda
 - [RStudio Community](https://community.rstudio.com/)
 - [Tidyverse](https://www.tidyverse.org/)
   - Uma coleção dogmática de pacotes R voltados para ciência e dados
+- [R Documentation](https://www.rdocumentation.org/)
+  - Search all 20,231 CRAN, Bioconductor and GitHub packages.
