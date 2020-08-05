@@ -32,5 +32,5 @@ Beijos e boas pogs
 
 - [Guia Python](guia-python.md)
 - [Guia R](guia-r.md)
-- [Fontes](guia-fontes.md)
+- [Fontes para os guias e outros livros abertos](guia-fontes.md)
 - [Materiais Extras](guia-extras.md)

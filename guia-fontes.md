@@ -25,6 +25,7 @@ outras fontes de estudo que o estudante pode usar.
 - [EN] [Agile Data Science with R](https://edwinth.github.io/ADSwR/)
 
 ### Python
+
 - [PT] [Ignorância Zero - Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 - [PT] [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 - [PT] [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
