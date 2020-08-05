@@ -6,3 +6,13 @@ output: html_notebook
 1. Em algumas partes da documentação, aparecem valores como 'S3' e 'S4'. O que significam?.
 
 2. Como a função `c` decide se vai retornar lista ou vetor?
+
+3. No `data.frame` 'clientes', mostrado no [capítulo 4](04-manipulando-os-dados.Rmd), ao invocar a função `str`...
+
+```{r}
+str(clientes)
+```
+
+... o resultado indica que os campos 'nome' e 'uf' são do tipo `Factor`. Porque são do tipo `Factor` e não `character`?
+
+4. Porque `dim` retorna null pra um vector?

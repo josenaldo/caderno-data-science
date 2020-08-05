@@ -1,0 +1,216 @@
+---
+title: "Manipulando Dados"
+output: html_notebook
+---
+
+## Tipos de dados do R
+
+### Tipos Básicos
+
+- integer
+- numeric
+- character
+- logical
+
+```{r}
+inteiro <- 928
+outro.inteiro <- 5e2
+decimal <- 182.93
+caracter <- 'exportação'
+logico <- TRUE
+outro.logico <- FALSE
+```
+
+```{r}
+class(inteiro)
+
+class(outro.inteiro)
+
+class(decimal)
+
+class(caracter)
+
+class(logico)
+
+class(outro.logico)
+```
+
+### Tipos Complexos
+
+- vector
+- array
+- matrix
+- list
+- data.frame 
+- factor
+
+Exemplo de um `vector`
+
+```{r}
+#faça as seguintes atribuições
+vetor.chr <- c('tipo1', 'tipo2', 'tipo3', 'tipo4')
+vetor.num <- c(1, 2, 5, 8, 1001)
+vetor.num.repetidos <- c(rep(2, 50)) #usando funcão para repetir números
+vetor.num.sequencia <- c(seq(from=0, to=100, by=5)) #usando função para criar sequências
+vetor.logical <- c(TRUE, TRUE, TRUE, FALSE, FALSE) 
+
+##veja o conteúdo das variáveis
+vetor.chr
+
+vetor.num
+
+vetor.num.repetidos
+
+vetor.num.sequencia
+
+vetor.logical
+```
+
+Exemplo de `data.frame`
+
+```{r}
+#cria-se diferentes vetores
+nome <- c('João', 'José', 'Maria', 'Joana')
+idade <- c(45, 12, 28, 31)
+adulto <- c(TRUE, FALSE, TRUE, TRUE)
+uf <- c('DF', 'SP', 'RJ', 'MG')
+#cada vetor é uma combinação de elementos de um MESMO tipo de dados
+#sendo assim, cada vetor pode ser uma coluna de um data.frame
+clientes <- data.frame(nome, idade, adulto, uf)
+clientes
+```
+
+
+### Conversção de tipos
+
+Convertendo de `character` para `numeric`:
+
+```{r}
+class("2015")
+as.numeric("2015")
+```
+
+Convertendo de `numeric` para `character`:
+
+```{r}
+class(55)
+as.character(55)
+```
+
+Convertendo de `numeric` para `integer`:
+
+```{r}
+class(3.14)
+as.integer(3.14)
+```
+
+Convertendo de `logical` para `numeric`:
+
+```{r}
+as.numeric(TRUE)
+as.numeric(FALSE)
+```
+
+Convertendo de `numeric` para `logical`:
+
+```{r}
+as.logical(1)
+as.logical(0)
+```
+
+## Estruturas de controle
+
+### if
+
+```{r}
+if( variavel >= 500 ) {
+  #executa uma tarefa se operação resultar TRUE
+}
+```
+
+### if-else
+
+```{r}
+if( variavel >= 500 ) {
+  #executa uma tarefa se operação resultar TRUE
+} else {
+  #executa outra tarefa se operação resultar FALSE
+}
+```
+
+### if-elseif-else
+
+```{r}
+a <- 9823
+
+if(a >= 10000) {
+  b <- 'VALOR ALTO'
+} else if(a < 10000 & a >= 1000) {
+  b <- 'VALOR MEDIO' 
+} else if(a < 1000) {
+  b <- 'VALOR BAIXO'
+}
+
+b
+```
+
+### Função ifelse
+
+```{r}
+
+ifelse(variavel >= 500, 'executa essa tarefa se TRUE', 'executa outra se FALSE')
+
+a <- 839
+c <- ifelse(a >= 10000, 'VALOR ALTO', ifelse(a < 10000 & a >= 1000, 'VALOR MEDIO', 'VALOR BAIXO'))
+c
+```
+
+### for
+
+```{r}
+# for iterando sobre objetos de uma coleção
+for(i in lista.de.arquivos) {
+  
+}
+
+# for iterando sobre um intervalo
+for(i in 1:1000){
+  
+}
+
+# for iterando sobre um vetor
+for(i in c(1, 2, 3, 4, 5)) {
+  
+}
+```
+
+### while
+
+```{r}
+# while com contador
+i <- 1
+while(i <= 5){
+  print(i)
+  i <- i + 1
+}
+```
+
+```{r}
+# while com sentinela
+automatico <- list.files('dados/automatico/')
+length(automatico) == 0
+
+while (length(automatico) == 0) {
+  automatico <- list.files('dados/automatico/')
+  if(length(automatico) > 0) {
+    print('O arquivo chegou!')
+    print('Inicia a leitura dos dados')
+    print('Faz a manipulação')
+    print('Envia email informando conclusão dos cálculos')
+  } else {
+    print('aguardando arquivo...')
+    Sys.sleep(5)
+  }
+}
+```
+
