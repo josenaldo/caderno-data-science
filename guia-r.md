@@ -58,7 +58,8 @@ Ou instale usando o Anaconda
 
 ## Links úteis
 
-- [Página oficial do R](https://www.r-project.org/)
+- [R Project](https://www.r-project.org/)
+  - Página oficial do R
 - [The Comprehensive R Archive Network](https://cran.r-project.org/)
   - CRAN é uma rede de servidores web e FTP, ao redor do mundo, que armazenam as últimas versões do código e da documentação do R
 - [RStudio Community](https://community.rstudio.com/)
