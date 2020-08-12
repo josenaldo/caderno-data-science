@@ -103,7 +103,7 @@ para entender as principais features do Python.
   - [ ] [PT] [Atributos, propriedades e descritores - encapsulamento e metaprogramação](https://www.youtube.com/watch?v=tF4Dlra3uNI)
   - [ ] [PT] [Live de Python #100 - Tudo ao mesmo tempo agora - Com Luciano Ramalho](https://www.youtube.com/watch?v=wReCMR8rnRI)
   - [ ] [PT] [Python Assíncrono: tudo ao mesmo tempo agora - Luciano Ramalho](https://www.youtube.com/watch?v=JijvNVKI0nY)
-  - [ ] [PT] [Trilha Pydata | Girando pratos: concorrência moderna em Python - Luciano Ramalho](https://www.youtube.com/watch?v=ksHpv8selV4)
+  - [ ] [PT] [Trilha Pydata - Girando pratos: concorrência moderna em Python - Luciano Ramalho](https://www.youtube.com/watch?v=ksHpv8selV4)
   - [ ] [PT] [Além dos paradigmas: como dominar linguagens no século 21 - Luciano Ramalho](https://www.youtube.com/watch?v=Gn9ihCd6IIY)
   - [ ] [PT] [Luciano Ramalho - A Beleza de Python](https://www.youtube.com/watch?v=2TLU3d3qgCw)
   - [ ] [PT] [Ensinando OO com Python, Django e Pygame](https://www.youtube.com/watch?v=-kt7PxjVn28)
