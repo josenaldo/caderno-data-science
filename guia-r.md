@@ -11,6 +11,7 @@ Para esse guia, foram usados os seguintes materiais:
 - REF5 - [Estatística com R](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
 - REF6 - [Curso de Programação em R para Análise de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0RMHvzZ8M32xhopFhmsr6)
 - REF7 - [Curso de Linguagem R](https://www.youtube.com/playlist?list=PLWhiA_CuQkbCKivmr-5iZy-Fo8ic1iyB2)
+- REF8 - [Ciência de Dados em R](https://livro.curso-r.com/)
 
 ## Introdução
 
@@ -44,6 +45,10 @@ Ou instale usando o Anaconda
   - [x] [PT] [Conceitos Básicos](https://cdr.ibpad.com.br/conceitos-basicos.html)
 
 ## Intermediário
+
+### GGPlot2
+
+- [ ] [PT][GRÁFICOS COM GGPLOT2](https://www.curso-r.com/material/ggplot/)
 
 ## Avançado
 
