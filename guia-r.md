@@ -51,8 +51,9 @@ Ou instale usando o Anaconda
 
 ## Guia de estilo do R
 
-- [ ] [EN] [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
+- [ ] [EN] [The tidyverse style guide - Hadley Wickham](https://style.tidyverse.org/)
 - [ ] [EN] [Advanced R by Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)
+- [ ] [EN] [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
 
 ## Como praticar
 
