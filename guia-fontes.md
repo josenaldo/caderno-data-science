@@ -59,6 +59,7 @@ outras fontes de estudo que o estudante pode usar.
 - [PT] [Introdução à Programação em R](https://cran.r-project.org/doc/contrib/Torgo-ProgrammingIntro.pdf)
 - [PT] [Tópicos de Estatística utilizando R](https://cran.r-project.org/doc/contrib/Itano-descriptive-stats.pdf)
 - [PT] [Estatística aplicada à ecologia usando o R](https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf)
+- [PT] [Estatística com R para a linguística](https://publicacoes.even3.com.br/book/estatistica-com-r-para-a-linguistica-112125)
   - [Materials](http://diogoprovete.weebly.com/teaching.html)
 - [PT] [Introdução ao uso do programa R](https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf)
   - [Materials](https://sites.google.com/site/vllandeiror/)
