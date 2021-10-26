@@ -55,6 +55,8 @@ para entender as principais features do Python.
 
 ## Avançado
 
+- Trabalhando com ambientes virtuais
+  - [ ] [EN] https://realpython.com/python-virtual-environments-a-primer/
 - Programação Funcional com Python
   - [ ] [PT] [Python Funcional](https://github.com/dunossauro/python-funcional)
     - [x] [PT] [0 Saindo da zona de conforto](https://dunossauro.github.io/python-funcional/roteiros/00_introducao.html)
