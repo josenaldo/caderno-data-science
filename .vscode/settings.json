@@ -11,20 +11,20 @@
         "activityBarBadge.background": "#ee90bb",
         "activityBarBadge.foreground": "#15202b",
         "statusBar.background": "#1857a4",
-        "statusBar.border": "#1857a4",
         "statusBar.foreground": "#e7e7e7",
         "statusBarItem.hoverBackground": "#1f6fd0",
         "titleBar.activeBackground": "#1857a4",
         "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.border": "#1857a4",
         "titleBar.inactiveBackground": "#1857a499",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "editorGroup.border": "#1f6fd0",
+        "panel.border": "#1f6fd0",
+        "sash.hoverBorder": "#1f6fd0",
+        "sideBar.border": "#1f6fd0",
+        "statusBarItem.remoteBackground": "#1857a4",
+        "statusBarItem.remoteForeground": "#e7e7e7"
     },
     "peacock.color": "#1857a4",
     "python.pythonPath": "D:\\ProgramData\\Anaconda3\\envs\\rstudio\\python.exe",
-    "markdownlint.config": {
-        "MD004": {
-            "style": "dash"
-        }
-    }
+
 }
