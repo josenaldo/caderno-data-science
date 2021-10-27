@@ -63,8 +63,24 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
   - Pago: Não
   - Live da Alura sobre a linguagem Python.
 
-- [ ][PT][ARTIGO] - [Quais as diferenças entre Python 2 e Python 3?](https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/)
-- [ ][PT][CURSO] - [Python 3: Avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos)
+- [x] [Quais as diferenças entre Python 2 e Python 3?](https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Artigo sobre diferenças entre Python 2 e Python 3.
+
+- [x] [Python 3: Avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Continuação do curso sobre Orientação a Objetos
+    - Revisão do curso anterior
+    - Herança
+    - Polimorfismo
+    - Duck typing
+    - Modelo de dados do Python
+    - Herança múltipla
+
   - [Repositório alura-python-oo2](https://github.com/josenaldo/alura-python-oo2)
 - [ ][PT][ARTIGO] - [Como comparar objetos no Python?](https://www.alura.com.br/artigos/como-comparar-objetos-no-python)
 - [ ][PT][ARTIGO] - [Python datetime: Lidando com datas e horários](https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python)
