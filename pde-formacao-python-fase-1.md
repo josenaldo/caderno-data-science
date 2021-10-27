@@ -1,6 +1,6 @@
 # Plano de estudo: Formação Python - Fase 1
 
-Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
+Plano de estudo e registro da Fase 1 do Curso Formação Python, na Alura.
 
 ## Introdução ao Python
 
@@ -192,58 +192,88 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - Como juntar dois dicionários
     - Como utilizar dict comprehension
 
-- [ ] [Ordenando listas no Python](https: //www.alura.com.br/artigos/ordenando-listas-no-python)
+- [x] [Ordenando listas no Python](https://www.alura.com.br/artigos/ordenando-listas-no-python)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
   - Artigo sobre ordenando listas em Python.
+    - Como oprdenar com a função `sorted`
+    - Critérios de ordenação de objetos
+    - Definindo um critério de ordenação
+    - Ordenação reversa
 
-- [ ] [Python - Hipsters #122](https://cursos.alura.com.br/hipsterstech-python-hipsters-122-a460)
+- [x] [Python - Hipsters Ponto Tech #122](https://hipsters.tech/python-hipsters-122/)
   - Tipo: Podcast
   - Idioma: Português
   - Pago: Não
-  - Episódio do Hipsters.tech sobre Python.
+  - Episódio do Hipsters Ponto Tech sobre Python, sobre o porque a linguagem está na moda, qual sua relação com machine learning, web e a com
 
 ## Trabalhar com formatos de dados
 
-- [ ] [Python Brasil: Validação de dados no padrão nacional](https://cursos.alura.com.br/course/python-validacao-dados)
-- Repositório: [https://github.com/josenaldo/alura-python-validacao](https://github.com/josenaldo/alura-python-validacao)
+- [x] [Python Brasil: Validação de dados no padrão nacional](https://cursos.alura.com.br/course/python-validacao-dados)
+  - Repositório: [https://github.com/josenaldo/alura-python-validacao](https://github.com/josenaldo/alura-python-validacao)
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
-  - Curso sobre Validação de dados em Python.
+  - Curso sobre validação de documentos brasileiros em em Python.
+    - Validação de um documento pela quantidade de caracteres
+    - Validação de um CPF usando uma classe da validate_docbr
+    - Encontrar, instalar e importar bibliotecas no PyPI
+    - Ler documentações de bibliotecas e utilizá-las em seus códigos
+    - Validação de CNPJ usando uma classe da validate_docbr
+    - O padrão de projeto Factory
+    - Validação com expressões regulares
+    - Como criar máscaras com expressões regulares
+    - Como trabalhar com datas e horas no Python
+    - Métodos da classe datetime
+    - Diferença de tempo entre duas datas com timedelta
+    - Validação de CEP
+    - O que são requisições HTTP
+    - Para que serve e como acessar uma API
+    - Como utilizar a biblioteca requests do Python
+    - Acessar a API do ViaCEP e retornar informações do endereço a partir do CEP.
 
-- [ ] [Python: Formatação de moeda e internacionalização](https://www.alura.com.br/artigos/formatando-moeda-no-python)
+- [x] [Python: Formatação de moeda e internacionalização](https://www.alura.com.br/artigos/formatando-moeda-no-python)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
-  - Artigo sobre formatando moeda em Python.
+  - Artigo sobre como formatar valores monetários no Python
+    - Arredondando um número com a função `round()`
+    - Substituindo um caractere de uma string com o método `replace()`
+    - Suportando mais de uma moeda e seguindo padrões diferentes
+    - Conhecendo o módulo locale
+    - Definindo um locale específico com a função `setlocale()`
+    - Formatando moeda com a função currency()
 
-- [ ] [Python: A diferença das funções input() e raw_input()](https://www.alura.com.br/artigos/a-diferenca-das-funcoes-input-e-raw-input-no-python)
+- [x] [Python: A diferença das funções input() e raw_input()](https://www.alura.com.br/artigos/a-diferenca-das-funcoes-input-e-raw-input-no-python)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
   - Artigo sobre a diferença das funções input() e raw_input() em Python.
+    - A função input() no Python 2
+    - A função raw_input() no Python 2
+    - O que fazer a respeito da diferença de versões?
+    - O perigo de executar uma entrada do usuário
 
-- [ ] [Padrão de Projeto: Simple Factory](https://www.thiengo.com.br/padrao-de-projeto-simple-factory)
+- [x] [Padrão de Projeto: Simple Factory](https://www.thiengo.com.br/padrao-de-projeto-simple-factory)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
   - Artigo sobre o padrão de projeto Simple Factory.
 
-- [ ] [Padrão de Projeto: Factory Method](https://www.thiengo.com.br/padrao-de-projeto-factory-method)
+- [x] [Padrão de Projeto: Factory Method](https://www.thiengo.com.br/padrao-de-projeto-factory-method)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
   - Artigo sobre o padrão de projeto Factory Method.
 
-- [ ] [https://www.thiengo.com.br/padrao-de-projeto-abstract-factory](https://www.thiengo.com.br/padrao-de-projeto-abstract-factory)
+- [x] [https://www.thiengo.com.br/padrao-de-projeto-abstract-factory](https://www.thiengo.com.br/padrao-de-projeto-abstract-factory)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
   - Artigo sobre o padrão de projeto Abstract Factory.
 
-- [ ] [Python RegEx - W3C Schools](https://www.w3schools.com/python/python_regex.asp)
+- [x] [Python RegEx - W3C Schools](https://www.w3schools.com/python/python_regex.asp)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
@@ -251,20 +281,40 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
 
 ## Testes automatizados
 
-- [ ] [Testes automatizados: TDD com Python](https://cursos.alura.com.br/course/tdd-com-python)
+- [x] [Testes automatizados: TDD com Python](https://cursos.alura.com.br/course/tdd-com-python)
+  - Repositório: [https://github.com/josenaldo/alura-python-testes](https://github.com/josenaldo/alura-python-testes)
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
-  - Curso sobre TDD em Python.
+  - Curso sobre TDD em Python
+    - O porquê testar
+    - Como começar a testar com Python
+    - Conhecemos a biblioteca unittest
+    - Como escrever e rodar um teste com o Pycharm
+    - Formas de nomear os testes
+    - Porque é importante dar nomes semânticos aos testes
+    - Como isolar o cenário com o método setUp
+    - Como realizar uma cópia rasa de lista
+    - Um pouco de programação defensiva
+    - Conceitos como encapsulamento e comportamento
+    - Como os testes ajudam na modelagem das classes
+    - Como testar exceções com a unittest
+    - O que são baby steps
+    - Vimos que testes também são refatorados para atender as novas regras de negócio
+    - O que é a biblioteca pytest
+    - Como testar exceções com ela
+    - As diferenças com a biblioteca unittest
+    - Onde colocar os módulos de testes
+    - O que é a biblioteca pytest
+    - Como testar exceções com ela
+    - As diferenças com a biblioteca unittest
+    - Onde colocar os módulos de testes
 
-- [ ] [Repositório](https://github.com/josenaldo/alura-python-testes)
-  - Tipo: Repositório
-  - Idioma: Português
-  - Pago: Não
-  - Repositório sobre testes automatizados em Python.
-
-- [ ] [Montando cenários de testes com o Pytest](https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest)
+- [x] [Montando cenários de testes com o Pytest](https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
-  - Artigo sobre montando cenários de testes com o Pytest.
+  - Artigo sobre como montar cenários de testes com o Pytest
+    - Evitando a repetição com a fase de setup
+    - Conhecendo as fixtures
+    - Entendendo as fixtures
