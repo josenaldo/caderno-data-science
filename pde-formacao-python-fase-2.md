@@ -4,7 +4,7 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
 
 ## Testes
 
-- [ ] [Testes em Python: trabalhando com dublês de testes]([URL](https://cursos.alura.com.br/course/python-testes-com-dubles))
+- [x] [Testes em Python: trabalhando com dublês de testes]([URL](https://cursos.alura.com.br/course/python-testes-com-dubles))
   - Repositório: [https://github.com/josenaldo/alura-python-testes-dubles](https://github.com/josenaldo/alura-python-testes-dubles)
   - Tipo: Curso
   - Idioma: Português
@@ -37,7 +37,40 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
     - Como implementar Fake com a biblioteca unittest.mock
     - Alguns pontos de atenção ao usar os dublês de testes
 
+- [x] [Montando cenários de testes com o Pytest](https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo
 
+- [x] [Mocks, Stubs, Dummies, Fakes, Spies - Dublês de Teste](https://www.youtube.com/watch?v=9w4GpaOeX7M)
+  - Tipo: Vídeo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Vídeo sobre os tipos de dublês de testes
+
+- [x] [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo, do Martin Fowler, sobre mock objects e suas diferenças para com os stubs
+
+- [ ] [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo simulando uma conversa sobre stubs e mocks
+
+- [x] [Imutabilidade de Strings no Python](https://blog.saldanha.dev/imutabilidade-de-strings-no-python/)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre a imutabilidade de strings no Python
 
 ## Tratamento de erros
 
