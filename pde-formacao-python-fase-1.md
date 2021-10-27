@@ -123,12 +123,21 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - is vs ==
     - igualdade e identidade
 
-- [ ][PT][PAGO][CURSO] - [Python Collections parte 1: Listas e tuplas](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas)
+- [ ] [Python Collections parte 1: Listas e tuplas](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas)
   - Repositório: [https://github.com/josenaldo/alura-python-collections-1](https://github.com/josenaldo/alura-python-collections-1)
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
-  - Curso sobre
+  - Curso sobre lista e tupla:
+    - Listas e operações com listas
+    - List comprehension
+    - Tuplas
+    - Polimorfismo e arrays
+    - Igualdade
+    - Outros builtins (enumerated, range e desempacotamento automatico de tuplas)
+    - Ordenação
+    - Ordenação customizada
+    - Ordenação total com functools
 
 
 - [ ] [Python Collections parte 2: Conjuntos e dicionários](https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios)
