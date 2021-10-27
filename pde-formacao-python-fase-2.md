@@ -1,4 +1,4 @@
-# Plano de estudo: Formação Python - Fase 2
+# Plano de estudo: Formação Python - Fase 2 - Aprimoramento
 
 Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa fase não consta, na Alura, como uma formação. Eu que decidi fazer uma entensão da formação, vendo tópicos adicionais do Python.
 
@@ -125,6 +125,172 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
 
 ## Trabalhando com arquivos
 
+- [x] [Python 3: Trabalhando com I/O](https://cursos.alura.com.br/course/python-3-trabalhando-com-io)
+  - Repositório: [https://github.com/josenaldo/alura-python-trabalhando-com-io](https://github.com/josenaldo/alura-python-trabalhando-com-io)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Data de conclusão: 11/10/2021
+  - Curso sobre como trabalhar com arquivos em Python
+    - Como abrir arquivos com o Python
+    - O que é o encoding
+    - Como ler as linhas de um arquivo com os métodos readline() e readlines()
+    - Ler as linhas de um arquivo percorrendo ele através de um loop
+    - Os modos de abertura de um arquivo para escrita
+    - Como podemos escrever em um arquivo
+    - O momento em que é realizada a escrita do arquivo
+    - O comportamento do método flush()
+    - Como percorrer arquivos com o seek()
+    - A importância de liberar um recurso
+    - Como gerenciar contextos utilizando a cláusula with
+    - Algumas exceções comuns ao se trabalhar com arquivos
+    - A diferença dos modos de escrita e de leitura na hora de abrir um arquivo que não existe
+    - Como funciona a leitura e a escrita de dados por baixo dos panos
+    - A classe bytes
+    - Como funciona o buffer de leitura e de escrita
+    - Como utilizar os módulos csv, json, pickle
+    - Como serializar e desserializar objetos
+    - Como retornar o dicionário de atributos de um objeto
+    - Como desempacotar objetos com Python
+
+- [x] [Python: O que significa if __name__ == '__main__'?](https://www.alura.com.br/artigos/o-que-significa-if-name-main-no-python)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre a instrução `__name__ == '__main__'`
+    - A variável `__name__`
+    - Usando if `__name__ == '__main__'` para controle de escopo de execução
+    - Quando usar a checagem de escopo de execução?
+
 ## Padrões de projetos
 
+- [x] [Design Patterns Python I: Boas práticas de programação](https://cursos.alura.com.br/course/design-patterns-python)
+  - Repositório: [https://github.com/josenaldo/alura-python-design-patterns-1](https://github.com/josenaldo/alura-python-design-patterns-1)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Data de conclusão: 19/10/2021
+  - Curso sobre padrões de projetos e sua implementação no Python:
+    - Strategy
+    - Chain of Responsibility
+    - Template Method
+    - Decorator
+    - State
+    - Builder
+    - Observer
+    - Além dos padrões de projeto
+
+- [x] [State](https://refactoring.guru/pt-br/design-patterns/state)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: 27/10/2021
+  - Artigo sobre o padrão de projeto State
+
+- [x] [Programação funcional no Python](https://blog.caelum.com.br/programacao-funcional-no-python/)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre programação funcional no Python
+    - Utilizando a função map()
+    - Cuidados com funções de alta ordem
+    - Passando nossa própria função para o map()
+    - Funções anônimas com lambda
+    - Filtrando valores de um iterável com a função filter()
+    - Utilizando a função reduce() para reduzir um iterável a um só valor
+
+- [x] [Conhecendo as tuplas no Python](https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre tuplas no Python
+
+- [x] [Semana de dados - Qual perfil de cientista de dados o mercado está pedindo?](https://www.youtube.com/watch?v=Qj-N2bLgCM4)
+  - Tipo: Vídeo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: 18/10/2021
+  - Vídeo sobre os perfis de profissionais de dados que o mercado está pedindo.
+
+- [x] [O que é Test-Driven Development (TDD)?](https://cursos.alura.com.br/o-que-e-test-driven-development-tdd--c1137)
+  - Tipo: Vídeo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Vídeo sobre o que é TDD, como ele funciona e como ele pode ser utilizado.
+
+- [x] [Os testes e os dublês - Parte 1](https://klauslaube.com.br/2014/08/07/os-testes-e-os-dubles-parte-1.html)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Primeira parte do artigo sobre dublês de teste.
+    - Porque usar dublês de teste?
+    - Tipos de dublês de teste
+
+- [x] [Os testes e os dublês - Parte 2](https://klauslaube.com.br/2015/06/29/os-testes-e-os-dubles-parte-2.html)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Segunda parte do artigo sobre dublês de teste
+    - Instalação da biblioteca mock (hoje não é mais utilizada)
+    - Dummys
+    - Fakes
+    - Mocks
+    - Stubs
+    - Spies
+
+- [x] [Design Patterns Python II: Boas práticas de programação](https://cursos.alura.com.br/course/design-patterns-python-2)
+  - Repositório: [https://github.com/josenaldo/alura-python-design-patterns-2](https://github.com/josenaldo/alura-python-design-patterns-2)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Data de conclusão: 22/10/2021
+  - Segundo curso sobre padrões de projetos e sua implementação no Python:
+    - Fábricas
+    - Memento
+    - Interpreter
+    - Visitor
+    - Command
+
+- [x] [Memento](https://refactoring.guru/design-patterns/memento)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre o padrão de projeto Memento
+
+- [x] [Interpreter Design Pattern](https://sourcemaking.com/design_patterns/interpreter)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre o padrão de projeto Interpreter
+
+- [x] [Visitor](https://refactoring.guru/pt-br/design-patterns/visitor)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre o padrão de projeto Visitor
+
+- [x] [Visitor e o Double Dispatch](https://refactoring.guru/pt-br/design-patterns/visitor-double-dispatch)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre o uso da técnica do Double Dispatch na implementação do padrão Visitor
+
+- [x] [Command](https://refactoring.guru/pt-br/design-patterns/command)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre o padrão de projeto Command
+
 ## Boas práticas
+
