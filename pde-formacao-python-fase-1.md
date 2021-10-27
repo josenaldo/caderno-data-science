@@ -57,7 +57,12 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - Propriedades
     - Métodos estáticos e privados
 
-- [ ][PT][VIDEO] - [A linguagem Python - Alura Live #94](https://www.youtube.com/watch?v=geC5USdDSLw)
+- [x] [A linguagem Python - Alura Live #94](https://www.youtube.com/watch?v=geC5USdDSLw)
+  - Tipo: Video
+  - Idioma: Português
+  - Pago: Não
+  - Live da Alura sobre a linguagem Python.
+
 - [ ][PT][ARTIGO] - [Quais as diferenças entre Python 2 e Python 3?](https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/)
 - [ ][PT][CURSO] - [Python 3: Avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos)
   - [Repositório alura-python-oo2](https://github.com/josenaldo/alura-python-oo2)
