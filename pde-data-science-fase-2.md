@@ -1,0 +1,1 @@
+# Plano de estudo: Data Science Fase 2 - Estatística com Python
