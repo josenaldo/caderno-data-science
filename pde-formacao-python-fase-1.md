@@ -5,6 +5,7 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
 ## Introdução ao Python
 
 - [x] [Python 3 parte 1: Introdução à nova versão da linguagem](https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem)
+  - Repositório: [https://github.com/josenaldo/alura-python-advinhacao](https://github.com/josenaldo/alura-python-advinhacao)
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
@@ -26,7 +27,14 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
-  - Descrição:
+  - Segunda parte do curso de introdução a Python, cobrindo os seguintes tópicos:
+    - Manipulação de strings
+    - Lista
+    - Tuplas
+    - Introdução aos sets e dicionários
+    - List comprehensions
+    - Escrita e leitura de arquivos
+    - Como organize seu código com funções
 
 - [ ][PT][ARTIGO] - [Python: Trabalhando com precisão em números decimais](https://www.alura.com.br/artigos/precisao-numeros-decimais-python)
 
