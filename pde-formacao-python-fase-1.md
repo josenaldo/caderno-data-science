@@ -173,17 +173,24 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
       - Utilizar o default dict
       - Utilizar o Counter para contar valores
 
-- [ ] [Python: Saiba o que são iteradores](https://www.alura.com.br/artigos/o-que-sao-iteradores-no-python)
+- [x] [Python: Saiba o que são iteradores](https://www.alura.com.br/artigos/o-que-sao-iteradores-no-python)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
-  - Artigo sobre iteradores em Python.
+  - Artigo sobre iteradores em Python. Começa falando sobre um caso de exemplo, onde a importação dos dados de um arquivo muito grande acaba por gerar um erro de memória. Para solucionar o problema, podemos utilizar a avaliação preguiçosa. Para isso, utilizamos os iteradores do Python.
 
-- [ ] [Python: Trabalhando com dicionários](https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python)
+- [x] [Python: Trabalhando com dicionários](https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python)
   - Tipo: Artigo
   - Idioma: Português
   - Pago: Não
-  - Artigo sobre trabalhando com dicionários em Python.
+  - Artigo sobre trabalhar com dicionários em Python.
+    - Como criar um dicionário
+    - Como acessar os elementos
+    - Como adicionar elementos
+    - Como remover elementos
+    - Como utilizar o método `items` para percorrer os elementos
+    - Como juntar dois dicionários
+    - Como utilizar dict comprehension
 
 - [ ] [Ordenando listas no Python](https: //www.alura.com.br/artigos/ordenando-listas-no-python)
   - Tipo: Artigo
