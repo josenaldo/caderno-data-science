@@ -294,3 +294,91 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
 
 ## Boas práticas
 
+- [x] [Python: Boas práticas de código com PEP8](https://cursos.alura.com.br/course/pep8-linters-python)
+  - Repositório: [https://github.com/josenaldo/alura-python-boas-praticas-de-codigo-com-pep8](https://github.com/josenaldo/alura-python-boas-praticas-de-codigo-com-pep8)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Data de conclusão: 26/10/2021
+  - Curso sobre como escrever bons códigos no python com o PEP8 e como utilizar o ferramentas de verificação de código
+  - Técnicas de Type hints
+  - Conceitos de PEP8
+  - Como escrever classes utilizando a PEP8
+  - A diferença entre uma classe que usa a PEP8 e uma que não usa
+  - Como instalar e usar o MyPy
+  - Como instalar e configurar o Flake8
+  - Como alertar erros de estilo no commit
+  - Como bloquear um commit que tenha problemas de estilo de código
+  - Mais regras do PEP8
+  - O que é uma classe abstrata
+  - O que é um Template Method
+  - Sobre o padrão de projeto Factory
+  - Como trabalhar com constantes seguindo o PEP8
+  - Mais técnicas de Type Hints
+  - Como reduzir a quantitade de ifs em seus códigos
+  - Sobre o padrão de projeto Injeção de dependências
+  - Sobre o conceito de responsabilidades nos seus códigos
+
+- [x] [Como publicar seu código Python no PyPI](https://www.alura.com.br/artigos/como-publicar-seu-codigo-python-no-pypi)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre como publicar um código Python no PyPI
+
+- [x] [Injeção de Dependência](https://medium.com/@eduardolanfredi/inje%C3%A7%C3%A3o-de-depend%C3%AAncia-ff0372a1672)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: 26/10/2021
+  - Artigo sobre como utilizar o padrão de projeto Injeção de Dependência
+    - Injeção de Dependência e Inversão de Controle
+    - Injeção por construtor
+    - Injeção por interface
+    - Injeção por propriedade (getter e setter)
+    - Framework de Injeção de Dependência
+
+- [x] [Como fazer uma cópia de uma lista no Python](https://www.alura.com.br/artigos/como-fazer-copia-de-lista-python)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: 26/10/2021
+  - Artigo sobre como fazer uma cópia de uma lista no Python
+    - Fazer uma cópia de uma lista, por atribuição, é uma fonte de problemas
+    - Listas são objetos mutáveis
+    - Fazendo a cópia de uma lista
+    - O problema das cópias rasas
+    - Fazendo uma cópia profunda de uma lista
+
+- [x] [The pass Statement: How to Do Nothing in Python](https://realpython.com/python-pass/)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: 26/10/2021
+  - Artigo sobre a expressão `pass` e suas alternativas
+    - Python pass Statement: Syntax and Semantics
+    - Usos temporários do `pass`
+      - Uso do `pass` como marcador de código futuro
+      - Uso do pass para funções cujo código foi comentado
+      - Uso do pass como marcador de depuração
+      - Uso do pass como corpo de função vazia
+      - Uso do pass como corpo de classe vazia
+      - Uso do pass como corpo de métodos de marcação
+    - Alternativas ao `pass`
+      - Docstrings
+      - Ellipsis
+      - Levantar um Error
+    - Usos permanentes do Pass
+      - Uso do pass como tratamento de exceção
+      - Uso do pass como encadeamento elif
+
+- [x] [Case Styles: Camel, Pascal, Snake, and Kebab Case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
+  - Tipo: Artigo
+  - Idioma: Inglês
+  - Pago: Não
+  - Data de conclusão: 27/10/2021
+  - Artigo sobre os tipos de casos mais usados  em programação
+    - camelCase
+    - PascalCase
+    - cnake_case
+    - kebab-case
