@@ -106,7 +106,7 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - Resolvendo o problema do fuso horário
     - Resolvendo o problema dos fusos horários com o pytz
 
-- [ ] [String em Python: Extraindo informações de uma URL](https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url)
+- [x] [String em Python: Extraindo informações de uma URL](https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url)
   - Repositório: [https://github.com/josenaldo/alura-python-extrator-url](https://github.com/josenaldo/alura-python-extrator-url)
   - Tipo: Curso
   - Idioma: Português
@@ -123,7 +123,7 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - is vs ==
     - igualdade e identidade
 
-- [ ] [Python Collections parte 1: Listas e tuplas](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas)
+- [x] [Python Collections parte 1: Listas e tuplas](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas)
   - Repositório: [https://github.com/josenaldo/alura-python-collections-1](https://github.com/josenaldo/alura-python-collections-1)
   - Tipo: Curso
   - Idioma: Português
@@ -139,13 +139,39 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - Ordenação customizada
     - Ordenação total com functools
 
-
-- [ ] [Python Collections parte 2: Conjuntos e dicionários](https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios)
+- [x] [Python Collections parte 2: Conjuntos e dicionários](https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios)
   - Repositório: [https://github.com/josenaldo/alura-python-collections-2](https://github.com/josenaldo/alura-python-collections-2)
   - Tipo: Curso
   - Idioma: Português
   - Pago: Sim
   - Curso sobre Conjuntos e Dicionários
+    - Conjuntos
+      - O que são conjuntos
+      - Criar conjuntos
+      - Utilizar o | para juntar conjuntos
+      - Utilizar o & para juntar apenas números que estão no mesmo conjunto
+      - Utilizar o - para remover números repetidos que estão no em dois conjuntos
+      - O que é ou (^) exclusivo
+    - Operações sobre conjuntos
+      - Modificar o conjunto em tempo real
+      - Congelar o conjunto com o frozenset
+      - Tirar a duplicidade de uma String
+      - Adicionar elementos no conjunto.
+    - Dicionários
+      - O que é um dicionário
+      - Verificar se o elemento está dentro do dicionário
+      - Utilizar o get para verificação
+      - Criar um dicionário a partir do dict
+      - Adicionar um elemento no dicionário
+      - Remover um elemento do dicionário
+      - Mostrar os elementos dentro do dicionário
+      - Usar a função keys para pegar as chaves
+      - Usar a função values para pegar os valores
+      - Percorrer linha a linha com a função items
+    - Variações de dicionários
+      - Contar quantas vezes aparece uma palavra
+      - Utilizar o default dict
+      - Utilizar o Counter para contar valores
 
 - [ ] [Python: Saiba o que são iteradores](https://www.alura.com.br/artigos/o-que-sao-iteradores-no-python)
   - Tipo: Artigo
