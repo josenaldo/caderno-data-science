@@ -44,8 +44,19 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
 
 ## Orientação a Objetos
 
-- [ ][PT][CURSO] - [Python 3: Introdução a Orientação a objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos)
-  - [Repositório alura-python-oo](https://github.com/josenaldo/alura-python-oo)
+- [x] [Python 3: Introdução a Orientação a objetos](https://cursos.alura.com.br/course/python-3-intro-orientacao-objetos)
+  - Repositório: [https://github.com/josenaldo/alura-python-oo](https://github.com/josenaldo/alura-python-oo)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Curso de Progamação Orientada a Objetos com Python
+    - O problema do paradigma procedural
+    - Classes e Objetos
+    - Métodos
+    - Encapsulamento
+    - Propriedades
+    - Métodos estáticos e privados
+
 - [ ][PT][VIDEO] - [A linguagem Python - Alura Live #94](https://www.youtube.com/watch?v=geC5USdDSLw)
 - [ ][PT][ARTIGO] - [Quais as diferenças entre Python 2 e Python 3?](https://blog.caelum.com.br/quais-as-diferencas-entre-python-2-e-python-3/)
 - [ ][PT][CURSO] - [Python 3: Avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos)
