@@ -58,7 +58,7 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
   - Data de conclusão: Indeterminada
   - Artigo, do Martin Fowler, sobre mock objects e suas diferenças para com os stubs
 
-- [ ] [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
+- [x] [The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
   - Tipo: Artigo
   - Idioma: Inglês
   - Pago: Não
@@ -73,6 +73,55 @@ Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa 
   - Artigo sobre a imutabilidade de strings no Python
 
 ## Tratamento de erros
+
+- [x] [Python 3: Entendendo o Tratamento de Erros](https://cursos.alura.com.br/course/python-exceptions-entendendo-o-tratamento-de-erros)
+  - Repositório: [https://github.com/josenaldo/alura-python-entendendo-o-tratamento-de-erros](https://github.com/josenaldo/alura-python-entendendo-o-tratamento-de-erros)
+  - Tipo: Curso
+  - Idioma: Português
+  - Pago: Sim
+  - Data de conclusão: 08/10/2021
+  - Curso sobre o tratamento de erros no Python
+    - Como lançar exceções com o comando `raise`.
+    - Qual o fluxo de execução quando um erro é disparado.
+    - Como usar o `except` para capturar diferentes tipos de exceção.
+    - Como adicionar Propriedades em nossas classes.
+    - Quais são as vantagens de usar properties.
+    - Python é uma linguagem de escopo aberto e por isso não possui modificadores de acesso.
+    - Como usar o padrão "__"(double under) para marcar atributos e métodos privados.
+    - Como usar a função `breakpoint` dentro do código, para não poluirmos nosso código na hora de debugar.
+    - Como usar o debbuger para analisar o código linha a linha de forma iterativa e achar erros.
+    - Como criar nossas próprias exceções, para informar erros de maneira mais contextualizada.
+    - Devemos sempre herdar da classe Exception na hora de criar nossos erros.
+    - As vantagens de enriquecer os objetos de erro com mais informação.
+    - Como usar os parâmetros args e kwargs em nossos erros.
+    - A lançar exceções a partir de um bloco `except`.
+    - Como sobrescrever o atributo args, de uma exceção, para evitar que informações vazem pelas mensagens de erro.
+    - A sintaxe de `raise <Exception> from E`, onde lançamos uma nova exceção a partir de uma já tratada.
+    - Como usar a cláusula `finally` para fechamento de recursos e operações que independem do acontecimento ou não de um erro.
+    - Como facilitar o entendimento e termos um código seguro com o `with`.
+    - A importância de liberar recursos compartilhados do sistema como arquivos externos.
+
+- [x] [Python: Lidando com erros e exceções](https://www.alura.com.br/artigos/tratamento-de-excecoes-no-python)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: Indeterminada
+  - Artigo sobre como lidar com erros e exceções no Python
+    - Erros que podem acontecer durante a execução de um programa.
+    - O problema do fechamento do arquivo
+    - Garantindo a execução de um código com um bloco `try/finally`
+    - Tratando exceções com o bloco `try/except`
+    - Capturando exceções específicas com `except`
+    - "E se tudo der certo?" com a cláusula `else`
+    - Gerenciadores de contexto
+    - Tratando erros com elegância
+
+- [x] [Conhecendo as assignment expressions - PEP 572 aceita!](https://www.alura.com.br/artigos/conhecendo-as-assignment-expressions-pep-572-aceita)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Data de conclusão: 27/10/2021  
+  - Artigo sobre as expressões de atribuição, um novo recurso do Python em que uma atribuição pode ocorrer no meio de uma expressão.
 
 ## Trabalhando com arquivos
 
