@@ -36,7 +36,11 @@ Plano de estudo para a Fase 1 do Curso Formação Python, na Alura.
     - Escrita e leitura de arquivos
     - Como organize seu código com funções
 
-- [ ][PT][ARTIGO] - [Python: Trabalhando com precisão em números decimais](https://www.alura.com.br/artigos/precisao-numeros-decimais-python)
+- [x] [Python: Trabalhando com precisão em números decimais](https://www.alura.com.br/artigos/precisao-numeros-decimais-python)
+  - Tipo: Artigo
+  - Idioma: Português
+  - Pago: Não
+  - Artigo sobre como trabalhar com números decimais em Python. Float tem problemas de precisão. Para resolver isso, usamos o módulo decimal.
 
 ## Orientação a Objetos
 
