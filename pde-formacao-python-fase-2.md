@@ -2,6 +2,8 @@
 
 Plano de estudo e registro da Fase 2 do Curso Formação Python, na Alura. Essa fase não consta, na Alura, como uma formação. Eu que decidi fazer uma entensão da formação, vendo tópicos adicionais do Python.
 
+O plano original pode ser visto em [https://cursos.alura.com.br/python-fase-2-josenaldo-1634664880417-p237519.html](https://cursos.alura.com.br/python-fase-2-josenaldo-1634664880417-p237519.html).
+
 ## Testes
 
 - [x] [Testes em Python: trabalhando com dublês de testes]([URL](https://cursos.alura.com.br/course/python-testes-com-dubles))

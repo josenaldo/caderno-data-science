@@ -1,6 +1,6 @@
 # Plano de estudo: Formação Python - Fase 1
 
-Plano de estudo e registro da Fase 1 do Curso Formação Python, na Alura.
+Plano de estudo e registro da Fase 1 do Curso Formação Python, na Alura. O plano original pode ser visto em: [https://cursos.alura.com.br/python-fase-1-josenaldo-1634664861045-p237518](https://cursos.alura.com.br/python-fase-1-josenaldo-1634664861045-p237518).
 
 ## Introdução ao Python
 
