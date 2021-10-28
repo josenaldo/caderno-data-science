@@ -7,12 +7,14 @@ assignees: josenaldo
 
 ---
 
+## Links
+
+-
+
 ## Descrição
 
+
+
 ## Repositório
-
-O repositório desse curso pode ser encontrado em: []()
-
-## Links adicionais
 
 -
